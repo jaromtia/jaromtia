@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Home Lab Project</b>
-  - [Wazuh SOC]()
+  - [Proxmox SOC environment]()
 - <b>Full Stack Web App</b>
   - [Bank Web App](https://github.com/jaromtia/banking-app) 
   - [OWASP Juice Shop Vue Clone](https://github.com/jaromtia/Lab-6-source-vuln-website)
