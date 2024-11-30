@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Home Lab Project</b>
-  - [Proxmox Server Infrastructure]()
+  - [Proxmox Server Infrastructure](https://github.com/jaromtia/Proxmox-home)
 - <b>Full Stack Web App</b>
   - [Bank Web App](https://github.com/jaromtia/banking-app) 
   - [OWASP Juice Shop Vue Clone](https://github.com/jaromtia/Lab-6-source-vuln-website)
