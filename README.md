@@ -16,6 +16,7 @@
 
 <h2> 🔭 I’m currently working on </h2>
 
-- <b>Home SOC<b>
-    - Create a SOC stack with Wazuh, The Hive, and MISP. I'm starting on 
+- <b>Home Lab Project</b>
+- <b>WGU Master's Program</b>
+  - [My Notes](https://github.com/jaromtia/Great-Vault)
 
