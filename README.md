@@ -13,6 +13,8 @@
   - [Database Final](https://github.com/Kedrics/BaaS)
 - <b>Python</b>
   - [Reverse engineering scripts](https://github.com/jaromtia/Python-Malware-Analysis)
+<h2> Check out my notes repository </h2>
+- [Great-Vault](https://github.com/jaromtia/Great-Vault)
 
 <h2> 🔭 I’m currently working on </h2>
 
